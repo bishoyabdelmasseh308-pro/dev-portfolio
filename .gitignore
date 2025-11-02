@@ -1,0 +1,29 @@
+# Dependency caches
+/node_modules
+/vendor
+/target
+/__pycache__
+
+# Compiled code and build artifacts
+*.o
+*.pyc
+*.class
+/bin
+/dist
+/out
+
+# Runtime-generated files
+*.log
+*.tmp
+*.lock
+/.cache
+
+# OS and Editor specific files
+.DS_Store
+Thumbs.db
+/.vscode
+/.idea
+*.swp
+
+# Sensitive information (example)
+.env
